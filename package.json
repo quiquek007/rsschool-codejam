@@ -11,7 +11,9 @@
     "eslint-plugin-import": "^2.14.0",
     "mocha": "^5.2.0"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "mocha make/tests/test.js",
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/quiquek007/rsschool-codejam.git"
