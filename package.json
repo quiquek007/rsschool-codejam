@@ -12,7 +12,7 @@
     "mocha": "^5.2.0"
   },
   "scripts": {
-    "test": "mocha make/tests/test.js",
+    "test": "mocha recursion/tests/test.js"
   },
   "repository": {
     "type": "git",
